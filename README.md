@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 旨在系统性总结知识
+heroText: 独上高楼，望尽天涯路
 tagline: 读书，经验，总结
 # heroImage: /hero.png
 # heroImageStyle: {
