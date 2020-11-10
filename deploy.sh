@@ -12,7 +12,7 @@ cd myblog/
 
 git init
 git add -A
-git commit -m 'deploy'
+git commit -m 'deploy more'
 
 # 如果发布到 https://<USERNAME>.github.io
 git push -f git@github.com:XiaoDongZhi/XiaoDongZhi.github.io.git master:docs
