@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 旨在系统性总结知识
+tagline: 读书，经验，总结
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
