@@ -1,5 +1,6 @@
 module.exports = {
   "title": "梦里花落知多少",
+  "base":"/XiaoDongZhi.github.io/",
   "description": "Zhi Dong' Blog",
   "dest": "./myblog",
   "head": [
