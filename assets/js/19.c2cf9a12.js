@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{509:function(t,n,e){"use strict";e.r(n);var s=e(4),o=Object(s.a)({},(function(){var t=this.$createElement,n=this._self._c||t;return n("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[n("p",[this._v("集中式虚拟网关\nopenstack  Juno之前的版本")])])}),[],!1,null,null,null);n.default=o.exports}}]);
